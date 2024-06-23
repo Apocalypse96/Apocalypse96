@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Lone developer, unstoppable force. Carving my own path in the tech realm.
+## Lone developer.Carving my own path in the tech realm.
 
 
 ## 🌐 Socials:
