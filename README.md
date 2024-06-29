@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Apocalypse96&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 😂 Random Dev Meme
-<img src='https://res.cloudinary.com/practicaldev/image/fetch/s--fhrVanJC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ie80g8dfk979zbsigwvj.png' style="height: 400px;"/>
+<img src='https://file.forms.app/sitefile/55+Hilarious-developer-memes-that-will-leave-you-in-splits-34.jpeg' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Apocalypse96&icon=0&color=0)](https://visitcount.itsvg.in)
